@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Soon there will be a description about me.
+- 🌱 I’m currently learning ...
 
 <!--
 **svoboda-core/svoboda-core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
