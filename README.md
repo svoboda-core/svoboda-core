@@ -29,9 +29,9 @@ I believe that my experience and dedication to this goal will help me go this wa
 
 ### Skills:
 
-* HTML5 / CSS3
-* SASS
+* HTML5 / CSS3 / SASS
 * JavaScript
+* React
 * Node.js
 * Git, GitHub
 * VS Code / PyCharm / Sublime Text
@@ -40,10 +40,10 @@ I believe that my experience and dedication to this goal will help me go this wa
 ---
 
 ### Framework
-* React (in progress)
+* React 
+* Bootstrap
 * Vue.js (in progress)
 * AngularJS (in progress)
-* Bootstrap.
 
 ---
 
@@ -67,12 +67,12 @@ function findUniq(arr) {
 ---
 
 ### My Pet project:
-* [My sait](https://github.com/svoboda-core/My_Site)(in progress)
-  * **Technologies:**
-* [Event_control](https://github.com/svoboda-core/Event_control)(in progress)
-  * **Technologies:**
+* [My portfolio site](https://github.com/svoboda-core/My_Site)
+  * **Technologies:** Bootstrap, HTML, CSS/SASS, JS.
+* [React-my-note-app](https://github.com/svoboda-core/react-my-note-app)
+  * **Technologies:** React, JS, CSS.
 * [Radioactivity]()(in progress)
-  * **Technologies:**
+  * **Technologies:** React (API), CSS, JS. 
 
 ---
 ### Education:
@@ -106,31 +106,4 @@ function findUniq(arr) {
 
 
 <!--
-**svoboda-core/svoboda-core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-* **Belarussian National State University**
-  * Automotive Faculty, Department of Economics and Logistics, 2012-2017
-* **Courses:**
-  * **RS Schools Course «JavaScript/Front-end. Stage 0»** (in progress)
-  * **freeCodeCamp:**
-    * [Responsive Web Design](https://www.freecodecamp.org/certification/mitrofanzxc/responsive-web-design)
-  * **Sololearn:**
-    * [HTML](https://www.sololearn.com/Certificate/1014-24283992/jpg)
-    * [CSS](https://www.sololearn.com/Certificate/1023-24283992/jpg)
-    * [JavaScript](https://www.sololearn.com/certificates/course/en/24283992/1024/landscape/png)
-    * [jQuery](https://www.sololearn.com/Certificate/1082-24283992/jpg)
-    * [Responsive Web Design](https://www.sololearn.com/Certificate/1162-24283992/jpg)
-    * [SQL](https://www.sololearn.com/certificates/course/en/24283992/1060/landscape/png)
 -->
