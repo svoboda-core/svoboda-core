@@ -82,8 +82,8 @@ function findUniq(arr) {
 * **Courses:**
   * **RS Schools Course «JavaScript/Front-end»** (in progress)
   * **freeCodeCamp:**
-    * [JavaScript Algorithms and Data Structures] (in progress)
-    * [Responsive Web Design] (in progress)
+    * [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/Vasily_Konoval/javascript-algorithms-and-data-structures)
+    * [Responsive Web Design](https://www.freecodecamp.org/certification/Vasily_Konoval/responsive-web-design)
     * [Front End Development Libraries] (in progress)
   * **Youtube courses:**
     * HTML5 Basic [Сhannel - webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
@@ -98,12 +98,6 @@ function findUniq(arr) {
 ----
 ### Languages:
 
-- English \- A2 (I use application in smartphone: Duolingo, Puzzle English and I use google translate a lot)
+- English \- A2+ (I use application in smartphone: Duolingo, Puzzle English and I use google translate a lot)
 - Russian \- Native
 - Ukrainian \- Native
-
-
-
-
-<!--
--->
