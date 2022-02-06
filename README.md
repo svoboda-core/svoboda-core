@@ -67,11 +67,11 @@ function findUniq(arr) {
 ---
 
 ### My Pet project:
-* [My portfolio site](https://github.com/svoboda-core/My_Site)
+* [My portfolio site] (in progress)
   * **Technologies:** Bootstrap, HTML, CSS/SASS, JS.
 * [React-my-note-app](https://github.com/svoboda-core/react-my-note-app)
   * **Technologies:** React, JS, CSS.
-* [Radioactivity]()(in progress)
+* [Radioactivity](https://github.com/svoboda-core/radioactivity)(in progress)
   * **Technologies:** React (API), CSS, JS. 
 
 ---
