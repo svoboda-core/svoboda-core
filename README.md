@@ -1,3 +1,4 @@
+# Glory To Ukraine! Glory to the heroes. Death to the enemies.
 # Hi there 👋 my name Vasily Konoval
 ---
 ### Junior Frontend Developer
@@ -67,12 +68,14 @@ function findUniq(arr) {
 ---
 
 ### My Pet project:
-* [My portfolio site] (in progress)
-  * **Technologies:** Bootstrap, HTML, CSS/SASS, JS.
 * [React-my-note-app](https://github.com/svoboda-core/react-my-note-app)
   * **Technologies:** React, JS, CSS.
+* [Mrcedes-website](https://mercedes-website.herokuapp.com/index.html)
+  * **Technologies:** HTML, CSS, jQuery.
 * [Radioactivity](https://github.com/svoboda-core/radioactivity)(in progress)
   * **Technologies:** React (API), CSS, JS. 
+* [My portfolio site] (in progress)
+  * **Technologies:** HTML, CSS/SASS, JS.
 
 ---
 ### Education:
@@ -80,7 +83,6 @@ function findUniq(arr) {
 * **Kryvyi Rih National University**
   * Transport Faculty, Department of mining equipment, 2001-2006
 * **Courses:**
-  * **RS Schools Course «JavaScript/Front-end»** (in progress)
   * **freeCodeCamp:**
     * [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/Vasily_Konoval/javascript-algorithms-and-data-structures)
     * [Responsive Web Design](https://www.freecodecamp.org/certification/Vasily_Konoval/responsive-web-design)
