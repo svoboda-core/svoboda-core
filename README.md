@@ -87,6 +87,6 @@ function chooseBestSum(t, k, arr) {
 ----
 ### Languages:
 
-- English \- A2+ (I use application in smartphone: Duolingo, Puzzle English and I use google translate a lot)
+- English \- A2+ (I am improving in this direction.)
 - Ukrainian \- Native
 - Russian \- Native
