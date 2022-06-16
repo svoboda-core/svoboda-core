@@ -1,7 +1,7 @@
-# Glory To Ukraine! Glory to the heroes. Death to the enemies.
+# Glory To Ukraine! Glory to the heroes.
 # Hi there 👋 my name Vasily Konoval
 ---
-### Junior Frontend Developer
+### Junior Python Developer | Junior Frontend Developer
 ---
 
 ### Contact information:
@@ -16,35 +16,26 @@
 ---
 
 ### Briefly About Myself:
-I am 38 years old, I started my acquaintance with programming when I was studying to be a mechanical engineer in 2001, then I was interested in programming since then I tracked different tendencies of innovation but it was at the level of a hobby.<br>
+I am 38 years old, I started my acquaintance with programming when I was studying to be a mechanical engineer in 2001, then I became interested in programming, since then I have been tracking different areas of innovation, but it was at the level of a hobby.<br>
 
-After graduating from the institute in 2006. and getting a job as an engineer in one of the mining enterprises of our city. I began to apply my knowledge in programming for partial automation and templating, and so in 2014 I became the head of the contract work bureau.<br>
+After graduating from the institute in 2006. and got a job as an engineer at one of the mining enterprises of our city. I began to apply my knowledge in programming for partial automation and templates, and in 2014 I became the head of the contract bureau.<br>
 
-But having achieved certain achievements, I began to lack the drive to learn new things at the beginning of 2021. I quit my business and start looking for my direction in programming, I tried Java, Python and settled on Frontend Developer.<br>
+In 2021, I made decisions to start a new career in IT.<br>
 
-I am interested in web development, because you immediately see the result of your work in the browser. Programming provides endless opportunities for professional growth and endless drive to learn new things.<br>
-
-I believe that my experience and dedication to this goal will help me go this way, and I will become an experienced Frontend developer.<br>
+I am sure that my previous experience and focus will help me go through this path and I will become an experienced developer, as my motto is "A difficult task is not a reason to give up, but a good chance to improve your skills".<br>
 
 ---
 
 ### Skills:
-
-* HTML5 / CSS3 / SASS
-* JavaScript
-* React
-* Node.js
-* Git, GitHub
-* VS Code / PyCharm / Sublime Text
-* Figma /Adobe Photoshop / Paint.net
-
----
-
-### Framework
-* React 
-* Bootstrap
-* Vue.js (in progress)
-* AngularJS (in progress)
+| **Python Developer**    | **Frontend Developer**      |
+| :-----------: |:-----------:|
+| FastAPI       | HTML5       |
+| Web scraping  | CSS3        |
+| Django        | SASS        |
+| MySQL         | BEM         |
+| PostgreSQL    | VanillaJS   |
+| MongoDB       | React       |
+| Docker        | Node.js     |
 
 ---
 
@@ -53,16 +44,17 @@ I believe that my experience and dedication to this goal will help me go this wa
 ![CodeWars](https://www.codewars.com/users/svoboda-core/badges/large)
 
 **Find the unique number KATA from CODEWARS:**
-*There is an array with some numbers. All numbers are equal except for one. Try to find it!*
+*John and Mary want to travel between a few towns A, B, C ... Mary has on a sheet of paper a list of distances between these towns. ls = [50, 55, 57, 58, 60]. John is tired of driving and he says to Mary that he doesn't want to drive more than t = 174 miles and he will visit only 3 towns.
+Which distances, hence which towns, they will choose so that the sum of the distances is the biggest possible to please Mary and John?*
 
 ```javascript
-function findUniq(arr) {
-  if (arr[0] === arr[1]) {
-    for (let i = 2, x = arr.length; i < x; i++)
-      if (arr[i] !== arr[0]) return arr[i];
-  } else {
-    return (arr[0] === arr[2]) ? arr[1] : arr[0];
-  };
+function chooseBestSum(t, k, arr) {
+    return arr
+    .reduce((r, e) => r.concat(r.filter(c => c.length < k).map(c => c.concat([e]))),[[]])
+    .filter(c => c.length === k)
+    .map(c => c.reduce((a, b) => a + b))
+    .filter(s => s <= t)
+    .sort((a, b) => b - a)[0] || null;
 }
 ```
 ---
@@ -72,10 +64,6 @@ function findUniq(arr) {
   * **Technologies:** React, JS, CSS.
 * [Mrcedes-website](https://mercedes-website.herokuapp.com/index.html)
   * **Technologies:** HTML, CSS, jQuery.
-* [Radioactivity](https://github.com/svoboda-core/radioactivity)(in progress)
-  * **Technologies:** React (API), CSS, JS. 
-* [My portfolio site] (in progress)
-  * **Technologies:** HTML, CSS/SASS, JS.
 
 ---
 ### Education:
@@ -86,7 +74,6 @@ function findUniq(arr) {
   * **freeCodeCamp:**
     * [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/Vasily_Konoval/javascript-algorithms-and-data-structures)
     * [Responsive Web Design](https://www.freecodecamp.org/certification/Vasily_Konoval/responsive-web-design)
-    * [Front End Development Libraries] (in progress)
   * **Youtube courses:**
     * HTML5 Basic [Сhannel - webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
     * CSS3 [Сhannel - webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA)
@@ -101,5 +88,5 @@ function findUniq(arr) {
 ### Languages:
 
 - English \- A2+ (I use application in smartphone: Duolingo, Puzzle English and I use google translate a lot)
-- Russian \- Native
 - Ukrainian \- Native
+- Russian \- Native
