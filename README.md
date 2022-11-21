@@ -46,7 +46,7 @@ I am sure that my previous experience and focus will help me go through this pat
 **Find the unique number KATA from CODEWARS:**
 *John and Mary want to travel between a few towns A, B, C ... Mary has on a sheet of paper a list of distances between these towns. ls = [50, 55, 57, 58, 60]. John is tired of driving and he says to Mary that he doesn't want to drive more than t = 174 miles and he will visit only 3 towns.
 Which distances, hence which towns, they will choose so that the sum of the distances is the biggest possible to please Mary and John?*
-
+JavaScript:
 ```javascript
 function chooseBestSum(t, k, arr) {
     return arr
@@ -56,6 +56,26 @@ function chooseBestSum(t, k, arr) {
     .filter(s => s <= t)
     .sort((a, b) => b - a)[0] || null;
 }
+```
+*Write a python function that sorts a list.The list can be string or numbers; the rest is up to you! Focus on simplicity and readability rather than efficiency.
+Python:
+```Python 
+is_inputs_1 = ["apple", "banana", "grapes", "fat", ":)", 1, 2, 25, 5, 10, -1, -5, 0, 0.10, -0.15,[], {"user": "Vasily"}]
+is_inputs_2 = [{"user": "Vasily"}, {"user": "Elen"}]
+
+def sorted_list(inputs) -> list:
+    is_namber = []
+    is_str = []
+    [is_namber.append(input) for input in inputs if type(input) == int or type(input) == float]
+    [is_str.append(input) for input in inputs if type(input) == str]
+    joinedList = [y for x in [sorted(is_namber), sorted(is_str)] for y in x]
+    if len(joinedList) > 0:
+        print(joinedList)
+    else:
+        print("List not contain str or numbers")
+
+sorted_list(is_inputs_1)
+sorted_list(is_inputs_2)
 ```
 ---
 
