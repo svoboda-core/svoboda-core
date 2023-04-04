@@ -1,11 +1,11 @@
 # Glory To Ukraine! Glory to the heroes.
 # Hi there 👋 my name Vasily Konoval
 ---
-### Junior Python Developer | Junior Frontend Developer
+### Python Developer | Frontend Developer
 ---
 
 ### Contact information:
-* **Location:** Krivoy Rog, Ukraine<br>
+* **Location:** Dnipro, Ukraine<br>
 * **E-mail:** vasilykonoval@gmail.com<br>
 * **Telegram:** @vasil_12<br>
 * **Skype:** Vasily Konoval (live:.cid.b78b4cef0314165b)<br>
@@ -79,34 +79,33 @@ sorted_list(is_inputs_2)
 ```
 ---
 
-### My Pet project:
-* [React-my-note-app](https://github.com/svoboda-core/react-my-note-app)
-  * **Technologies:** React, JS, CSS.
-* [Mrcedes-website](https://mercedes-website.herokuapp.com/index.html)
-  * **Technologies:** HTML, CSS, jQuery.
+### Commercial project:
+* [Travel Tool](https://github.com/svoboda-core/traveltool)
+  * **Description:** Tool for formation and planning of business trips
+  * **Technologies:** Django, PostgreSQL, HTML5, JS, CSS3.
 
 ---
+### Expirience:
+* **Diosphere Technologies (agency TestFreaks in Ukraine), Dnipro – Python Developer, May 2022 – Apr 2023**
+  * Optimize and fix the program code written in Python for the correct parsing of information from sites. This information includes product data and reviews.
+* **Freelance, Jan 2021 - Mar 2023**
+  * Automation of various business processes using JavaScript/Python programming languages. 
+* **PJSC “Central GOK” Ukraine, Kryvyi Rih - Head of Contract Bureau, Apr 2014 - Jan 2021**
+  * Control over the execution of contracts. Supply planning, budget planning. Control over accounting. Analysis and updating of data in SAP ERP and Microsoft Excel. Distribution of tasks to employees and control of execution. Formation of KPIs of the department and the employee.
+---
+
 ### Education:
 
 * **Kryvyi Rih National University**
   * Transport Faculty, Department of mining equipment, 2001-2006
 * **Courses:**
-  * **freeCodeCamp:**
+  * **FreeCodeCamp:**
     * [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/Vasily_Konoval/javascript-algorithms-and-data-structures)
     * [Responsive Web Design](https://www.freecodecamp.org/certification/Vasily_Konoval/responsive-web-design)
-  * **Youtube courses:**
-    * HTML5 Basic [Сhannel - webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
-    * CSS3 [Сhannel - webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA)
-    * ES6 [Youtube channel - webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD)
-    * Node.js [Сhannel - webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0)
-    * Front End. Lesson HTML CSS JS [Сhannel - Фрилансер по жизни - IT и фриланс](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
-  * **Help and Education Sites:**
-    * JavaScript Manual [learn.javascript.ru](https://learn.javascript.ru/)
-    * MDM Web Doc [developer.mozilla.org](https://developer.mozilla.org/)
 
 ----
 ### Languages:
 
-- English \- A2+ (I am improving in this direction.)
+- English \- B1 (Intermediate)
 - Ukrainian \- Native
 - Russian \- Native
